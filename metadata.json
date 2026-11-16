@@ -1,0 +1,6 @@
+{
+  "name": "IVAC Slot Automation Pro",
+  "description": "Chrome extension automating IVAC visa slot booking, Cloudflare Turnstile verification, smart file upload, proxy IP rotation, and instant network payment link capture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
